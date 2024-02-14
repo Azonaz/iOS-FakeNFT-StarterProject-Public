@@ -12,6 +12,9 @@
 
 Командный дипломный проект. Моя часть работы — экран "Корзина".
 
+![nft](https://github.com/Azonaz/iOS-FakeNFT-StarterProject-Public/assets/125258194/1d1e45d8-dd96-40eb-a7fd-cbd8838d9966)
+
+
 Стек: UITableView, UICollectionView, SPM, MVVM, Localization, swiftgen, swiftlint, ProgressHUD, URLSession.
 
 # Назначение и цели приложения
